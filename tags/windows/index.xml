@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>windows on Powershell | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-powershell/tags/windows/</link>
+    <description>Recent content in windows on Powershell | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jul 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-powershell/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Check if Windows is 64-bit Using Powershell</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/check-windows-64bit/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/check-windows-64bit/</guid>
+      <description>PS C:\&amp;gt; [Environment]::Is64BitProcess PS C:\&amp;gt; [Environment]::Is64BitOperatingSystem  both will return &amp;ldquo;True&amp;rdquo; if you&amp;rsquo;re on a 64 bit Windows. See https://stackoverflow.com/questions/31977657/determining-32-64-bit-in-powershell</description>
+    </item>
+    
+  </channel>
+</rss>

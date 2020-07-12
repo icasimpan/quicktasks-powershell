@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mac on Powershell | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-powershell/tags/mac/</link>
+    <description>Recent content in mac on Powershell | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jul 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-powershell/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Install Powershell in Mac</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/install-powershell-in-mac/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/install-powershell-in-mac/</guid>
+      <description>Install
+brew cask install powershell  Run
+pwsh  To update/upgrade later on:
+brew update brew cask upgrade powershell  See https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7</description>
+    </item>
+    
+  </channel>
+</rss>
