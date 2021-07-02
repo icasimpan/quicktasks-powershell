@@ -1,6 +1,6 @@
 ---
 title: "Processing each powershell array value"
-date: 2021-07-03T00:55:25+08:00
+date: 2021-07-03T00:56:25+08:00
 tags: [powershell, array]
 draft: false
 ---
