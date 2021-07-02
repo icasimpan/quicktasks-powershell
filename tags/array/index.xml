@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>array on Powershell | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-powershell/tags/array/</link>
+    <description>Recent content in array on Powershell | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jul 2021 00:56:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-powershell/tags/array/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Processing each powershell array value</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/processing-each-powershell-array-value/</link>
+      <pubDate>Sat, 03 Jul 2021 00:56:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/processing-each-powershell-array-value/</guid>
+      <description>Using the example in variable assignment
+And you want to do something to each variable, you may do the following:
+foreach ($i in $container_ids) { $i }  So for instance, you want to delete all the containers:
+foreach ($i in $container_ids) { docker rm $i }  </description>
+    </item>
+    
+    <item>
+      <title>Assign Command Output to Powershell Array</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/assign-command-output-to-powershell-array/</link>
+      <pubDate>Sat, 03 Jul 2021 00:55:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/assign-command-output-to-powershell-array/</guid>
+      <description>From powershell CLI;
+$container_ids=docker ps -qa $container_ids  In the command above, 1st line does the assignment. 2nd line prints the values. You will then have an output such as the following:
+6fc00bc6a ba3c76ca3 a9b4e46eb  </description>
+    </item>
+    
+  </channel>
+</rss>

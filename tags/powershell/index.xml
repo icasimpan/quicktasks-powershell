@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>powershell on Powershell | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-powershell/tags/powershell/</link>
+    <description>Recent content in powershell on Powershell | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jul 2021 00:56:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-powershell/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Processing each powershell array value</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/processing-each-powershell-array-value/</link>
+      <pubDate>Sat, 03 Jul 2021 00:56:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/processing-each-powershell-array-value/</guid>
+      <description>Using the example in variable assignment
+And you want to do something to each variable, you may do the following:
+foreach ($i in $container_ids) { $i }  So for instance, you want to delete all the containers:
+foreach ($i in $container_ids) { docker rm $i }  </description>
+    </item>
+    
+    <item>
+      <title>Assign Command Output to Powershell Array</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/assign-command-output-to-powershell-array/</link>
+      <pubDate>Sat, 03 Jul 2021 00:55:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/assign-command-output-to-powershell-array/</guid>
+      <description>From powershell CLI;
+$container_ids=docker ps -qa $container_ids  In the command above, 1st line does the assignment. 2nd line prints the values. You will then have an output such as the following:
+6fc00bc6a ba3c76ca3 a9b4e46eb  </description>
+    </item>
+    
+    <item>
+      <title>Check if Windows is 64-bit Using Powershell</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/check-windows-64bit/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/check-windows-64bit/</guid>
+      <description>PS C:\&amp;gt; [Environment]::Is64BitProcess PS C:\&amp;gt; [Environment]::Is64BitOperatingSystem  both will return &amp;ldquo;True&amp;rdquo; if you&amp;rsquo;re on a 64 bit Windows. See https://stackoverflow.com/questions/31977657/determining-32-64-bit-in-powershell</description>
+    </item>
+    
+    <item>
+      <title>Get Current Computer Name in Powershell</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/get-current-computer-name-using-powershell/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/get-current-computer-name-using-powershell/</guid>
+      <description>PS C:\&amp;gt; $env:COMPUTERNAME  See https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/20/powertip-use-powershell-to-get-computer-name/</description>
+    </item>
+    
+    <item>
+      <title>Get MD5 of a File using Powershell</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/get-md5-of-file/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/get-md5-of-file/</guid>
+      <description>PS C:\&amp;gt; Get-FileHash -Path $file -Algorithm MD5  See https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-filehash?view=powershell-6</description>
+    </item>
+    
+    <item>
+      <title>Get Powershell Version</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/powershell-version/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/powershell-version/</guid>
+      <description>PS /Users/example&amp;gt; $PSVersionTable Name Value ---- ----- PSVersion 7.0.2 PSEdition Core GitCommitId 7.0.2 OS Darwin 19.5.0 Darwin Kernel Version 19.5.0: Tue May 26 20:41:44 PDT 2020; root:xnu-6153.121.2~2/RELEASE_X86_64 Platform Unix PSCompatibleVersions {1.0, 2.0, 3.0, 4.0…} PSRemotingProtocolVersion 2.3 SerializationVersion 1.1.0.1 WSManStackVersion 3.0  </description>
+    </item>
+    
+    <item>
+      <title>Get System Path via Powershell</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/get-system-path/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/get-system-path/</guid>
+      <description>PS C:\&amp;gt; $env:PATH  See https://blogs.technet.microsoft.com/heyscriptingguy/2011/07/23/use-powershell-to-modify-your-environmental-path/</description>
+    </item>
+    
+    <item>
+      <title>Install Powershell in Mac</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/install-powershell-in-mac/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/install-powershell-in-mac/</guid>
+      <description>Install
+brew cask install powershell  Run
+pwsh  To update/upgrade later on:
+brew update brew cask upgrade powershell  See https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7</description>
+    </item>
+    
+    <item>
+      <title>Unix2Dows using Powershell</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/unix2dos-in-powershell/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/unix2dos-in-powershell/</guid>
+      <description>get-content &amp;lt;filename&amp;gt; |% {$_.replace(&amp;quot;`n&amp;quot;, &amp;quot;`r`n&amp;quot;)} | out-file -filepath &amp;lt;new filename&amp;gt;  More explanation in https://sus42.wordpress.com/2013/01/21/unix2dos-using-powershell/</description>
+    </item>
+    
+  </channel>
+</rss>

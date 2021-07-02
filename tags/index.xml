@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Powershell | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-powershell/tags/</link>
+    <description>Recent content in Tags on Powershell | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jul 2021 00:56:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-powershell/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>array</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/tags/array/</link>
+      <pubDate>Sat, 03 Jul 2021 00:56:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/tags/array/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>powershell</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/tags/powershell/</link>
+      <pubDate>Sat, 03 Jul 2021 00:56:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/tags/powershell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variable-assignment</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/tags/variable-assignment/</link>
+      <pubDate>Sat, 03 Jul 2021 00:55:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/tags/variable-assignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/tags/computer/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/tags/computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>install</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/tags/install/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/tags/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/tags/mac/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>md5</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/tags/md5/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/tags/md5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unix2dos</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/tags/unix2dos/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/tags/unix2dos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>version</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/tags/version/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/tags/version/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/tags/windows/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

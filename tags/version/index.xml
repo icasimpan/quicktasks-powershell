@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>version on Powershell | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-powershell/tags/version/</link>
+    <description>Recent content in version on Powershell | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jul 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-powershell/tags/version/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get Powershell Version</title>
+      <link>https://ismael.casimpan.com/quicktasks-powershell/powershell-version/</link>
+      <pubDate>Sun, 12 Jul 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-powershell/powershell-version/</guid>
+      <description>PS /Users/example&amp;gt; $PSVersionTable Name Value ---- ----- PSVersion 7.0.2 PSEdition Core GitCommitId 7.0.2 OS Darwin 19.5.0 Darwin Kernel Version 19.5.0: Tue May 26 20:41:44 PDT 2020; root:xnu-6153.121.2~2/RELEASE_X86_64 Platform Unix PSCompatibleVersions {1.0, 2.0, 3.0, 4.0…} PSRemotingProtocolVersion 2.3 SerializationVersion 1.1.0.1 WSManStackVersion 3.0  </description>
+    </item>
+    
+  </channel>
+</rss>
